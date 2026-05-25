@@ -9,11 +9,11 @@ I help them do it differently.
 
 ## What I do
 
-I work at the intersection of GTM strategy, product marketing, and LATAM market dynamics — with a focus on how enterprise buyers in the region actually think, evaluate, and decide.
+I work at the intersection of GTM strategy, product marketing, and LATAM market dynamics with a focus on how enterprise buyers in the region actually think, evaluate, and decide.
 
 Over the years I've built across the full marketing mix: product positioning, field-led growth, integrated campaigns, and sales alignment. Always with LATAM at the center.
 
-Lately, I've been adding AI tooling to the motion — building lightweight agents and resources that make GTM execution smarter without requiring an engineering team.
+Lately, I've been adding AI tooling to the motion, building lightweight agents and resources that make GTM execution smarter without requiring an engineering team.
 
 ---
 
