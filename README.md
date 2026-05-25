@@ -24,4 +24,4 @@ Regional Marketing Manager and Product Marketing roles in B2B SaaS with LATAM am
 Consulting for teams entering or scaling in the region
 Speaking and collaborations on AI-driven GTM and LATAM market strategy
 
-LinkedIn · Based between Brazil and global markets
+Based between Brazil and global markets
