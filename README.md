@@ -42,4 +42,4 @@ I'm currently open to:
 
 ---
 
-*If your product needs to land in markets that don't fit the default playbook — let's talk.*
+*If your product needs to land in markets that don't fit the default playbook. let's talk.*
